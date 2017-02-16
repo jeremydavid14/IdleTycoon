@@ -28,3 +28,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Rider #
+#########
+.idea/
+
+# Misc #
+########
+ProjectSettings/ProjectVersion.txt

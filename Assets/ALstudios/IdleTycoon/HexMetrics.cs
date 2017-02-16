@@ -7,7 +7,8 @@
  * Copyright (c) 2017 Tom Wright
  */
 
-// http://catlikecoding.com/unity/tutorials/hex-map/part-6/
+// Where we are:
+//     http://catlikecoding.com/unity/tutorials/hex-map/part-6/
 
 using UnityEngine;
 
